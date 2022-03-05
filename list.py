@@ -1,3 +1,9 @@
+
+
+# list are mutable that means they can be change
+# for creation of list we use square brackets
+
+
 # list are ordered sequence that store the variety of data
 #   [] with commas is used for separating
 # Ex. [1,5,6,8,4]
@@ -8,7 +14,6 @@
 
 # another_list = ['yusuf', 8, 6, 'm']
 # print(my_list+another_list)
-
 
 l1 = ['one', 'two', 'three']
 l2 = ['four', 'five']
